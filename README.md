@@ -18,4 +18,4 @@ Left with your team on the stage, you will win~
 
 Having problem with this game? 
 Contact me [tindle163@163.com]() and I’ll help you sort it out.
-https://tindlewei.github.io/VikingClimberSite/
+https://tindlewei.github.io/BumperSite/
